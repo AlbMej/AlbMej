@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlbMej&show_icons=true&locale=en&layout=compact" alt="AlbMej" />
 
-Currently playnig with AI 🤖
+Currently playing with AI 🤖
 
 _Student @ Georgia Institute of Technology_
 
