@@ -2,7 +2,7 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AlbMej)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlbMej&show_icons=true&locale=en&layout=compact" alt="AlbMej" />
+<img align="right" src="https://github-readme-stats-one-teal-70.vercel.app/api/top-langs?username=AlbMej&show_icons=true&locale=en&layout=compact" alt="AlbMej" />
 
 Currently playing with AI 🤖
 
