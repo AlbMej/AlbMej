@@ -6,7 +6,7 @@
 
 Currently playing with AI 🤖
 
-_Student @ Georgia Institute of Technology_
+_Graduate @ Georgia Institute of Technology_
 
 [![Linkedin: Alberto Mejia](https://img.shields.io/badge/-AlbMej-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AlbMej/)](https://www.linkedin.com/in/AlbMej/)
 [![GitHub AlbMej](https://img.shields.io/github/followers/AlbMej?label=follow&style=social)](https://github.com/AlbMej)
